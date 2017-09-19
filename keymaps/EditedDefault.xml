@@ -1,5 +1,0 @@
-<keymap version="1" name="EditedDefault" parent="$default">
-  <action id="PhpListenDebugAction">
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
-</keymap>
